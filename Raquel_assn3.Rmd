@@ -1,0 +1,44 @@
+---
+title: "cv"
+author: "Raquel de Castro"
+date: "2/22/2019"
+output: html_document
+---
+
+
+<center>
+# <span style="color:red">*Raquel Gaede de Castro*</span>
+#### Graduate Research Assistant, University of Arkansas 
+1 University Avenue, Fayetteville, AR, 72712 •
+rgpalmer@uark.edu • (479) 466-3991   
+</center> 
+  
+  
+
+###Employment
+
+University of Arkansas, Graduate Research Assistant  <div style="text-align: right">2017-present</div>  
+Fitness One, Yoga Instructor <div style="text-align: right">2017-present</div>  
+The Yoga Loft, Yoga Instructor <div style="text-align: right">2019-present</div>  
+Bentonville High School, Biology Teacher <div style="text-align: right">2013-2017</div>  
+
+
+###Education
+
+University of Arkansas, M.A. Teaching <div style="text-align: right">2013</div>
+
+University of Arkansas, B.S. Biology <div style="text-align: right">2012</div>
+
+###Certifications 
+
+* Arkansas Teaching License
+      * Standard 5 year license: 7-12 Life/Earth Science & ESL 
+* IB Biology Teaching Certification
+* AP Biology Teaching Certification
+
+
+###Leadership Experience
+
+* Cold Spring Harbor Laboratory The Evolving Concept of Mitochondria Meeting Poster Presentation, October 2018.
+* Developed and implemented the first IB Biology program at Bentonville High School.
+* Developed and implemented the first Biology for newcomers curriculum for Bentonville High School.
