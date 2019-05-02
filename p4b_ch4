@@ -1,0 +1,10 @@
+#! /usr/bin/env python3
+
+import os
+import sys
+# convert command line arguments to variables
+kmer_size = int(sys.argv[1])
+count_cutoff = int(sys.argv[2])
+print count_cutoff
+
+
